@@ -9,4 +9,5 @@ in addition to this it removes any interests.
 # Improvements I'm thinking to do
 
 1: Apply a Graphical User Intereface. I could use Tkinter to make it user friendly.
+
 2: Include months and weeks if you are looking to save in a short time i.e holidays etc 
